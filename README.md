@@ -1,9 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="">Pierrot</a> - Junior <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hello there, I'm <a href="">Norataisen</a> - Junior <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="[HEHE]"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/IamPierrot?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100091729477173"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/IamPierrot?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ch%C3%A0o!+Just+a+Junior+dead+inside)](https://git.io/typing-svg)
@@ -31,7 +31,7 @@ P/s: from 🇻🇳 with 💖
 
 <p align="left">
   <a href=""><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
-  <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 #
@@ -59,8 +59,8 @@ P/s: from 🇻🇳 with 💖
         public readonly national: string = "Viet Nam";
 
         constructor() {
-            this.realname = "Nguyen Tan Phat";
-            this.nickname =  "Pierrot";
+            this.realname = "Vo Huynh Quang Huy";
+            this.nickname =  "Norataisen";
         }
         
         public void doSomething() {
@@ -72,8 +72,8 @@ P/s: from 🇻🇳 with 💖
 ```python
     class Info:
         def __init__(self):
-            self._realname = "Nguyen Tan Phat"
-            self._nickname = "Pierrot"
+            self._realname = "Vo Huynh Quang Huy"
+            self._nickname = "Norataisen"
             self.national = "Viet Nam"
 
         def doSomething(self):
@@ -89,8 +89,8 @@ P/s: from 🇻🇳 with 💖
         char[] national
     public:  
       Info() : 
-        realname("Nguyen Tan Phat"), 
-        name("Pierrot"), 
+        realname("Vo Huynh Quang Huy"), 
+        name("Norataisen"), 
         national("Viet Nam")
       {} 
       void doSomething()
@@ -103,10 +103,10 @@ P/s: from 🇻🇳 with 💖
 
 ## 🤝 At the end
 
-If you have any questions about me or something else, feel free to <a href="mailto:phatnguyentan836@gmail.com">contact me through email</a> me.
+If you have any questions about me or something else, feel free to <a href="mailto:nakanohuy5@gmail.com">contact me through email</a> me.
 
 > Peace and Love
 
 > "Quang Huy" - Miku
 
-[def]: ttps://www.facebook.com/profile.php?id=10009172947717
+[Dev]: [FB](https://www.facebook.com/profile.php?id=100091729477173)
