@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://images7.alphacoders.com/131/1316101.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://images-ext-2.discordapp.net/external/pO6r56ySczjU9Jn40NkhHhUq8V67GgYe_S3-_pYfQ_E/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1064067077478027334/b03fb41f6f1929a424acdcc47ae7bd0d.png?format=webp&quality=lossless&width=432&height=432" height="175px"/></a>
 
 <h3 align="center">Hello there, I'm <a href="">Norataisen</a> - Junior <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
