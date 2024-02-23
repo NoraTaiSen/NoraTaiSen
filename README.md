@@ -1,9 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://images7.alphacoders.com/131/1316101.png" height="175px"/></a>
 
 <h3 align="center">Hello there, I'm <a href="">Norataisen</a> - Junior <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100091729477173"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/IamPierrot?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100091729477173"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Norataisen?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ch%C3%A0o!+Just+a+Junior+dead+inside)](https://git.io/typing-svg)
