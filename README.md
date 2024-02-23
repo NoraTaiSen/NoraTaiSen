@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://images-ext-2.discordapp.net/external/pO6r56ySczjU9Jn40NkhHhUq8V67GgYe_S3-_pYfQ_E/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1064067077478027334/b03fb41f6f1929a424acdcc47ae7bd0d.png?format=webp&quality=lossless&width=432&height=432" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/1200809846983905362/1210632302657409094/1340478.jpeg?ex=65eb4431&is=65d8cf31&hm=eb21f61a8f3f992485dc31a1fc68d8dd0cc68dabb30320f55488fa694d58b78e&=&format=webp&width=550&height=285" height="175px"/></a>
 
-<h3 align="center">Hello there, I'm <a href="">Norataisen</a> - Junior <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hello there, I'm <a href="">Norataisen</a> - WIBU NEVER DIE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100091729477173"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Norataisen?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -31,7 +31,7 @@ P/s: from 🇻🇳 with 💖
 
 <p align="left">
   <a href=""><img alt="FB" title="FB" src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
-  <a href="https://www.facebook.com/profile.php?id=100091729477173"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100091729477173"><img alt="Intagram" title="intagram" src="https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 #
@@ -39,7 +39,7 @@ P/s: from 🇻🇳 with 💖
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pierrot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamPierrot&show_icons=true&theme=dracula" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Norataisen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamPierrot&show_icons=true&theme=dracula" /></a>
 </details>
 
 <details> 
