@@ -30,8 +30,8 @@ P/s: from 🇻🇳 with 💖
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
-  <a href=""><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
-  <a href="https://www.twitch.tv/"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href=""><img alt="FB" title="FB" src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
+  <a href="https://www.facebook.com/profile.php?id=100091729477173"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 #
